@@ -1,0 +1,36 @@
+.btnEdt{
+    color: lightgreen;
+    padding: 0.5em;;
+    border: 0.1em solid  ;
+  }
+
+  .main {
+    display: flex;
+    flex-direction: column;
+    height: 40rem;
+    padding-top: 2rem;
+  }
+
+ .btn{
+    display: flex;
+    justify-content: space-around;
+ }
+ .btn button{
+    width: 8rem;
+    height: 2rem;
+    border-radius: 0.1rem;
+ }
+ .main label {
+    color:  rgb(0, 0, 0);
+    background-color:lightgreen;
+    border: 0px solid;
+
+ }
+ .main input{
+    height: 1.5rem;
+    font-size: 1.5rem;
+  
+ }
+.wrapper{
+    background-color: aquamarine;
+}
